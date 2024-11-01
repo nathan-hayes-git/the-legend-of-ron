@@ -10,8 +10,8 @@ public class GameTest {
     public void testCreateBoard(){
         // int xCoordinates, int yCoordinates
         Board b1 = new Board(3,3);
-        int getXSize = b1.getBoardXSize();
-        int getYSize = b1.getBoardYSize();
+        int getXSize = b1.getXCoordinates();
+        int getYSize = b1.getYCoordinates();
         assertEquals(3, getYSize);
         assertEquals(3, getXSize);
 
