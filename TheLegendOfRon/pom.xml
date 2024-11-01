@@ -22,5 +22,8 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+<<<<<<< HEAD
 
+=======
+>>>>>>> deedb36254619f94110a57a75da26e95e7ce405d
 </project>
